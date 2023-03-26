@@ -1,0 +1,29 @@
+h1 {
+    color: white;
+    font-size: 50px;
+    background-color: black;
+    font-weight: bold;
+}
+
+span {
+    color: cyan;
+    font-weight: bold;
+}
+
+h2 {
+    color: white;
+    background-color: purple;
+    text-align: center;
+    font-weight: normal;
+    font-style: italic;
+    font-size: 35px;
+}
+
+h3 {
+    color: black;
+    background-color: cornflowerblue;
+    text-align: right;
+    text-decoration: underline;
+    font-weight: normal;
+    font-size: 20px;
+}
