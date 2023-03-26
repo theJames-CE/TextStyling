@@ -9,6 +9,6 @@ Recreate the look of the <b>h1</b>, <b>h2</b>, and <b>h3</b> tags in the image b
 
 ![image](https://user-images.githubusercontent.com/124546382/227811498-eaf41f1d-70fc-412b-951e-fdfcba4dc5a9.png)
 
-<b>Hint:</b> we may need to use an additional <b>span /span</b> element to wrap text inside of an <b>h1 /h1</b> that we would like to apply a different color to.
+<b>Hint:</b> we may need to use a additional <b>span /span</b> element to wrap text inside of an <b>h1 /h1</b> that we would like to apply a different color to.
 
 #CodingDojo
